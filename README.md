@@ -34,11 +34,17 @@ First, make sure you have all the required tools installed on your local machine
  
   8.)	These are all the flags that the app supports:
   ** Flag	                  ** Description
+  
   -h, --help            	show this help message and exit
+  
   --ping                	Sends a ping request
+  
   --storageinfo	Returns storage summary information regarding binaries, file store and repositories.
+  
   --repolist            	Returns a list of minimal repository details for all repositories of the specified type.
+  
   -v, --version	Retrieve information about the current Artifactory version.
+  
   --deleteuser	[Username Required] This API will delete a single user.
 
   
