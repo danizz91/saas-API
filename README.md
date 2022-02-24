@@ -1,4 +1,3 @@
-"# saas-API" 
 # Description
  A simple CLI application that makes jfrog-artifactory API calls
 
