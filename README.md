@@ -12,16 +12,12 @@ First, make sure you have all the required tools installed on your local machine
 # Steps to reproduce
   Steps to pull the project through the artifactory:
   
-  
   1.)	Go to https://danielabergelassignment.jfrog.io/
-  
   
   2.)	Enter a username and password
   
-  
-  •	Username = <yourusername
-                             
-                             
+  •	Username = <yourusername>
+                                                  
   •	Password = <yourpassword>
   
   
