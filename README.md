@@ -1,6 +1,14 @@
 # Description
  A simple CLI application that makes jfrog-artifactory API calls
 
+## Requirements
+- [Python](https://www.python.org/)
+- [Docker](https://www.docker.com/) (optional)
+
+## Getting started
+
+First, make sure you have all the required tools installed on your local machine then continue with these steps.
+
 # Steps to reproduce
   Steps to pull the project through the artifactory:
   1.)	Go to https://danielabergelassignment.jfrog.io/
