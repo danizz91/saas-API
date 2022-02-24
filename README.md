@@ -16,9 +16,9 @@ First, make sure you have all the required tools installed on your local machine
   
   2.)	Enter a username and password
   
-  •	Username = >yourusername
+  •	Username = > yourusername
                                                   
-  •	Password = >yourpassword
+  •	Password = > yourpassword
   
   
   3.)	Go to Packages under Artifactory tab, There you can see the project I wrote in python and Dockerize it.
