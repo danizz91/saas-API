@@ -10,10 +10,10 @@
   •	Password = <yourpassword>
   3.)	Go to Packages under Artifactory tab, There you can see the project I wrote in python and put it in docker
   4.)	Click on saas-api packages and click the latest version.
-  5.)	Copy this command in your terminal or cmd: docker pull danielabergelassignment.jfrog.io/saas-docker-local/saas-api:latest
+  5.)	Copy this command in your terminal or cmd: ```docker pull danielabergelassignment.jfrog.io/saas-docker-local/saas-api:latest```
   6.)	After the docker has finished to pull the entire image use that command:
-  docker run -it --name my_app --rm danielabergelassignment.jfrog.io/saas-docker-local/saas-api
-  7.)	Now that we're inside the downloaded image we can write down this command to run the project : python main.py –help
+  ```docker run -it --name my_app --rm danielabergelassignment.jfrog.io/saas-docker-local/saas-api```
+  7.)	Now that we're inside the downloaded image we can write down this command to run the project : ```python main.py –-help```
   8.)	These are all the flags that the app supports:
   ** Flag	                  ** Description
   -h, --help            	show this help message and exit
