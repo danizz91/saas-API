@@ -3,7 +3,7 @@
 
 ## Requirements
 - [Python](https://www.python.org/)
-- [Docker](https://www.docker.com/) (optional)
+- [Docker](https://www.docker.com/)
 
 ## Getting started
 
@@ -11,10 +11,20 @@ First, make sure you have all the required tools installed on your local machine
 
 # Steps to reproduce
   Steps to pull the project through the artifactory:
+  
+  
   1.)	Go to https://danielabergelassignment.jfrog.io/
+  
+  
   2.)	Enter a username and password
-  •	Username = <yourusername>
+  
+  
+  •	Username = <yourusername
+                             
+                             
   •	Password = <yourpassword>
+  
+  
   3.)	Go to Packages under Artifactory tab, There you can see the project I wrote in python and put it in docker
   4.)	Click on saas-api packages and click the latest version.
   5.)	Copy this command in your terminal or cmd: ```docker pull danielabergelassignment.jfrog.io/saas-docker-local/saas-api:latest```
